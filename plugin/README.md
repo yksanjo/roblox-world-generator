@@ -44,3 +44,5 @@ local API_URL = "http://localhost:8000"  -- Change to your API URL
 - Requires backend API to be running
 - Some advanced features may require additional setup
 
+
+
